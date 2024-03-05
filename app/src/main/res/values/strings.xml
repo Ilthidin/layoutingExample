@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">layoutingExample</string>
+    <string name="text_name">Hi, Muhammad Syihab</string>
+    <string name="text_greetings">What you gonna eat today</string>
+</resources>
